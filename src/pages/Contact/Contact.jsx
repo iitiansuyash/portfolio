@@ -53,7 +53,7 @@ export const Contact = () => {
         <div className="buttons">
           <div className="socials">
             <a
-              href="http://www.instagram.com/iitiansuyash"
+              href="http://www.instagram.com/suyashxo"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -62,7 +62,7 @@ export const Contact = () => {
               </IconButton>
             </a>
             <a
-              href="https://in.linkedin.com/in/suyash-suryavanshi-1b020a203"
+              href="https://www.linkedin.com/in/suyash-suryavanshi-1b020a203/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -71,7 +71,7 @@ export const Contact = () => {
               </IconButton>
             </a>
 
-            <a href="mailto:20je1005@am.iitism.ac.in">
+            <a href="mailto:suyashsuryavanshi04@gmail.com">
               <IconButton bg={green}>
                 <AiOutlineMail size={40} />
               </IconButton>

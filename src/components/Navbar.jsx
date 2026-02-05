@@ -62,7 +62,8 @@ export const Navbar = ({ children }) => {
           <li>
             <NavbarItem
               className="navbar-item"
-              onClick={handelDotMovement}
+              // onClick={handelDotMovement}
+              onClick={() => window.open("https://github.com/iitiansuyash", "_blank")}
               id="projects"
             >
               Projects

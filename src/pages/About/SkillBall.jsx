@@ -19,11 +19,11 @@ const Skills = () => {
     "Django",
     "NextJs",
     "ReactJs",
-    "Redux",
+    "Azure Cloud",
     "NodeJs",
-    "Express",
+    "Flutter",
     "HTML",
-    "CSS",
+    "IOS",
     "ThreeJs",
   ];
   const g = useRef();

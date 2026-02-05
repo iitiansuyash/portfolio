@@ -49,10 +49,10 @@ export const About = () => {
       <Page header="About">
         <Text>
           <Paragraph>
-          I am a FullStack Developer and a Competitive Programmer who loves to transform ideas into reality using code. 
-          I am a final year student at IIT(ISM) Dhanbad currently pursuing an Integrated Master of Technology in Mathematics and Computing. 
+          I am a Full Stack Developer who loves to transform ideas into reality using code. <br />
+          I am a graduate of IIT (ISM) Dhanbad with a major in Mathematics and Computing, and I currently work full-time as a Software Engineer in Japan. 
           <br />
-          I was born and raised in Bilaspur, India. I like to learn about new technologies, take part in hackathons or simply watch anime in my free time.
+          I enjoy learning new technologies, building things that matter, and maintaining a healthy balance through hiking and gaming in my free time.
           </Paragraph>
           <Educations>
             <AboutItem
@@ -60,7 +60,7 @@ export const About = () => {
               active
               data={{
                 title: "IIT(ISM) Dhanbad",
-                p: "Integrated M.tech. in Matematics and Computing (2020-2025)",
+                p: "Integrated M.Tech. in Mathematics and Computing (2020-2025)",
                 image: ism,
               }}
             />
